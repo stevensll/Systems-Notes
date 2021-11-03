@@ -31,4 +31,12 @@ When files are read/written, a "bookmark" is moved
 > dent = readdir(d);
 >```
 
+11/2/21
+
+#Command Line Arguments:
+`int main(int argc, char *argv[])`
+
+`sscanf:
+
+`stdin input`
 
